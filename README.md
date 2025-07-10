@@ -202,6 +202,8 @@ The **Revenue** dashboard provides a consolidated view of sales performance over
 
 - **Temporal analysis flexibility**: slicers for year, quarter, month, and week allow users to drill down and compare performance across different timeframes, supporting both short-term and long-term planning.
 
+![Revenue Dashboard]()
+
 ### **Inventory**
 
 The **Inventory** dashboard provides a clear overview of ingredient usage and stock availability, supporting the business in maintaining daily operations and avoiding potential supply shortages, while enabling stakeholders to explore and act on the following insights.
