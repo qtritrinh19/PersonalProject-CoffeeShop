@@ -216,6 +216,8 @@ The **Inventory** dashboard provides a clear overview of ingredient usage and st
 
 - **Focused time filtering**: with filters for year, quarter, month, and week, the analysis is scoped to a selected weekly period, enabling users to explore consumption patterns and stock behavior in a time-sensitive context.
 
+![Revenue Dashboard](./images/Dashboard_Inventory.png)
+
 ### **Staff**
 
 The **Staff** dashboard provides visibility into workforce operations, helping managers monitor employee activity and control labor costs, and offering practical insights into how time and salary resources are allocated across the team:
@@ -225,3 +227,10 @@ The **Staff** dashboard provides visibility into workforce operations, helping m
 - **Shift coverage tracking**: Work assignments are clearly mapped by day and shift, making it easy to identify who worked when and assess workload distribution across the week.
 
 - **Labor cost overview**: Total staff expenses are summarized, giving management a clear picture of human resource spending during the selected period.
+
+
+![Revenue Dashboard](./images/Dashboard_Staff.png)
+
+
+
+
