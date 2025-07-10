@@ -202,7 +202,7 @@ The **Revenue** dashboard provides a consolidated view of sales performance over
 
 - **Temporal analysis flexibility**: slicers for year, quarter, month, and week allow users to drill down and compare performance across different timeframes, supporting both short-term and long-term planning.
 
-![Revenue Dashboard]()
+![Revenue Dashboard](./images/Dashboard_Revenue.png)
 
 ### **Inventory**
 
@@ -214,7 +214,7 @@ The **Inventory** dashboard provides a clear overview of ingredient usage and st
 
 - **Weekly expenditure tracking**: ingredient-related spending is summarized on a weekly basis, offering a concise view of supply-side costs and supporting better financial oversight.
 
-- **Focused time filtering**: with filters for year, quarter, month, and week, the analysis is scoped to a selected weekly period—enabling users to explore consumption patterns and stock behavior in a time-sensitive context.
+- **Focused time filtering**: with filters for year, quarter, month, and week, the analysis is scoped to a selected weekly period, enabling users to explore consumption patterns and stock behavior in a time-sensitive context.
 
 ### **Staff**
 
