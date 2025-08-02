@@ -228,8 +228,47 @@ The **Staff** dashboard provides visibility into workforce operations, helping m
 
 - **Labor cost overview**: Total staff expenses are summarized, giving management a clear picture of human resource spending during the selected period.
 
-
 ![Revenue Dashboard](./images/Dashboard_Staff.png)
+
+## 4. Business Insights & Action
+
+### Business insights:
+
+- High revenue dependency on limited product range
+Coffee-based beverages—particularly *Cold Mocha*, *White Mocha*, and *Cappuccino* accounted for the majority of unit sales, indicating a strong product concentration. This dependency presents a business risk in the event of supply issues with key ingredients.
+
+- Time-based sales peaks
+Sales volumes peaked during 07:00–09:00 and 13:00–14:00, corresponding with typical morning and post-lunch consumer behavior. These windows represent critical revenue periods that require strong staffing and stock readiness.
+
+- Day-of-week variability
+Monday recorded the highest transaction count, while Wednesday had the lowest. This midweek slump presents an opportunity to boost traffic through targeted marketing or promotions.
+
+- Inventory pressures on high-turnover ingredients
+Key ingredients such as *Espresso beans*, *Chocolate syrup*, and *Whole milk* frequently reached “low stock” thresholds. These ingredients are directly tied to top-selling products, making stockouts a high-risk scenario.
+
+- Operational cost breakdown
+Labor cost reached $960, representing over 50% of total weekly revenue ($1,860), while inventory costs accounted for an additional $247.
+
+- Balanced dine-in vs. to-go channel distribution
+Order types were nearly split between dine-in (53.2%) and to-go (46.8%), signaling the need to optimize both on-site service and takeaway logistics for customer satisfaction.
+
+### Suggested actions:
+
+- Automate inventory alerts for critical ingredients
+Implement dynamic reorder thresholds based on 7-day rolling average usage for fast-moving items like espresso and syrups. Schedule supplier orders at fixed weekly intervals (e.g., every Tuesday) to avoid downtime during peak hours.
+
+- Introduce midweek promotional campaigns
+Address low midweek sales by launching initiatives like “Wednesday Double Points” or limited-time offers on slow-moving products. Monitor uplift using A/B testing for campaign effectiveness.
+
+- Optimize both dine-in and to-go experiences
+For to-go: streamline packaging, reduce prep time, and promote breakfast combos during morning rush.
+For dine-in: manage table turnover during peak periods and ensure sufficient seating and service capacity.
+
+- Diversify product offering and upsell opportunities
+Reduce product dependency by introducing new beverage flavors, offering limited seasonal items, and bundling coffee with baked goods to increase average order value.
+
+
+
 
 
 
